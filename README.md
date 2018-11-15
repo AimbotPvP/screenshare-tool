@@ -9,7 +9,7 @@ This is a really simple screenshare tool made for you skids that just go through
  - Go to properties -> c/c++ -> precompiled headers -> precompiled header and set it to "Not Using Precompiled Headers" like this ![](https://im.killingmyself.today/USj9jYGQug.png)
  - Now you're probably going to want to add in your strings (line 136)
    ```cpp
-   	const char *strings[] =
+   const char *strings[] =
 	{
 		"Aim Assist",
     "Auto Clicker",
