@@ -10,7 +10,7 @@ This is a really simple screenshare tool made for you skids that just go through
  - Now you're probably going to want to add in your strings (line 136)
    ```cpp
    const char *strings[] =
-       {
+    {
     "Aim Assist",
     "Auto Clicker",
     "insane vape v3 detection"
